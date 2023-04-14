@@ -55,3 +55,8 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 ## Get to Know the Author
 **Shiva V. N. Parasram**
 He is the Executive Director and CISO of the Computer Forensics and Security Institute, which specializes in penetration testing, forensics, and advanced cybersecurity training. As the only Certified EC-Council Instructor (CEI) in the Caribbean, he has also trained hundreds in CCNA, CND, CEH, CHFI, ECSA, and CCISO, among other certifications. He has partnered with international companies including Fujitsu (Trinidad) and Take It To The Top LLC as the lead trainer for advanced cybersecurity courses. Shiva is also the author of two other books from Packt Publishing and has delivered workshops, lectures, and keynote speeches regionally for ISACA, universities, law associations, and other institutions.
+
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781837635153">https://packt.link/free-ebook/9781837635153 </a> </p>
